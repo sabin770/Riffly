@@ -1,0 +1,19 @@
+# GuitarAI - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core computer vision
+opencv-python>=4.8.0
+
+# Audio processing
+pyaudio>=0.2.13
+numpy>=1.24.0
+
+# Image display in Tkinter
+Pillow>=10.0.0
+
+# Optional: Guitar Pro file support
+# PyGuitarPro>=0.6.0
+
+# Optional: better pitch detection
+# librosa>=0.10.0
+# soundfile>=0.12.0
